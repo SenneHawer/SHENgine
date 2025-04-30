@@ -1,0 +1,3 @@
+/Users/sennehawer/GitKraken Repository/SHENgine/build/CMakeFiles/mygame.dir
+/Users/sennehawer/GitKraken Repository/SHENgine/build/CMakeFiles/edit_cache.dir
+/Users/sennehawer/GitKraken Repository/SHENgine/build/CMakeFiles/rebuild_cache.dir
